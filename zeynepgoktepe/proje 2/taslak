@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+#include <string.h>
+
+#define SIZE_TABLE 8 
+#define MINE_NUMBER 5
+
+char tab[SIZE_TABLE+2][SIZE_TABLE+2];
+int tabvalue[SIZE_TABLE+2][SIZE_TABLE+2];   
+int row,column;
+int nb_mine;
+int win=0;
+int howmany;
+
+int control();
+void create_mines();                      
+void starting();
+void after_starting();
+void game_win();
+void again_game();
+void game_over();
+void game_continue();
+
+
+int main(){
+   
+
+   
+    return 0;
+}
+

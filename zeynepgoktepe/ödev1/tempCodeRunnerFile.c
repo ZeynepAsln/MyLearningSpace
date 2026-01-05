@@ -1,0 +1,1 @@
+"%d",kup_alma(num));

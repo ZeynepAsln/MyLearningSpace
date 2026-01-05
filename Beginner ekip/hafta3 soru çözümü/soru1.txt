@@ -1,0 +1,28 @@
+  Başla
+    |
+    V
+Makarna ve su hazırla
+    |
+    V
+Tencereye suyu koy
+    |
+    V
+Suyu kaynat
+    |
+    V
+Makarnayı tencereye ekle
+    |
+    V
+Makarnayı pişir
+    |
+    V
+Pişirme süresi dolana kadar bekle
+    |
+    V
+Makarnayı süz
+    |
+    V
+Makarnayı servis yap
+    |
+    V
+Bitir
